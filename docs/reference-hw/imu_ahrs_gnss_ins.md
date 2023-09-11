@@ -76,3 +76,15 @@ Link to ROS 2 driver:
 
 Link to company website:  
 [https://www.polyexplore.com/](https://www.polyexplore.com/)
+
+## **Fix Position GNSS/INS Sensors**
+
+| Supported Products List | INS/IMU Rate | Roll, Pitch, Yaw Acc.                 | GNSS                    | ROS 2 Driver  | Autoware Tested (Y/N) |
+| ----------------------- | ------------ | ------------------------------------- | ----------------------- | ------------- | --------------------- |
+| Vision-RTK 2            | 200Hz        | -    | 5 Hz<br>L1 / L2                | Y             | -                     |
+
+Link to ROS 2 driver:  
+[https://github.com/fixposition/fixposition_driver](https://github.com/fixposition/fixposition_driver) 
+
+Link to company website:  
+[https://www.fixposition.com/](https://www.fixposition.com/)

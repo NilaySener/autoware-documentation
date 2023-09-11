@@ -25,5 +25,3 @@ Autonomoustuff platform solutions which is used for autonomous development and t
 
 Link to company website:  
 [https://autonomoustuff.com/platform](https://autonomoustuff.com/platform)
-
-

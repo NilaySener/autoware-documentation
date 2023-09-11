@@ -24,14 +24,14 @@ Link to company website:
 
 RoboSense Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | Range | FOV (V), (H)  | ROS2 Driver | Autoware Tested (Y/N) |
-|-------------------------|-------|---------------|-------------|------------------------|
-| M1                      | 200m  | 25°/120°      | -           | -                      |
-| E1                      | 30m   | 90°/120°      | -           | -                      |
-| Bpearl                  | 100m  | 90°/360°      | Y           | Y                      |
-| Ruby Plus               | 250m  | 40°/360°      | Y           | ?                      |
-| Helios 32               | 150m  | 70°/360°<br/> 31°/360°<br/> 26°/360°  | Y    | Y     |
-| Helios 16               | 150m  | 30°/360°      | Y           | ?                      |
+| Supported Products List | Range | FOV (V), (H)                         | ROS2 Driver | Autoware Tested (Y/N) |
+| ----------------------- | ----- | ------------------------------------ | ----------- | --------------------- |
+| M1                      | 200m  | 25°/120°                             | -           | -                     |
+| E1                      | 30m   | 90°/120°                             | -           | -                     |
+| Bpearl                  | 100m  | 90°/360°                             | Y           | Y                     |
+| Ruby Plus               | 250m  | 40°/360°                             | Y           | ?                     |
+| Helios 32               | 150m  | 70°/360°<br/> 31°/360°<br/> 26°/360° | Y           | Y                     |
+| Helios 16               | 150m  | 30°/360°                             | Y           | ?                     |
 
 Link to ROS 2 driver:  
 [https://github.com/RoboSense-LiDAR/rslidar_sdk](https://github.com/RoboSense-LiDAR/rslidar_sdk)
@@ -43,18 +43,18 @@ Link to company website:
 
 Hesai Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | Range | FOV (V), (H)           | ROS 2 Driver | Autoware Tested (Y/N) |
-| ----------------------- | ----- | ---------------------- | ------------ | --------------------- |
-| Pandar 128              | 200m  | (+15°)/(-25°), (360°)  | Y            | -                     |
-| Pandar 64               | 200m  | (+15°)/(-25°), (360°)  | Y            | Y                     |
-| Pandar 40P              | 200m  | (+15°)/(-25°), (360°)  | Y            | Y                     |
-| QT 128                  | 50m   | (-52.6°/+52.6°), (360°) | Y           | Y                     |
-| QT 64                   | 20m   | (-52.1°/+52.1°), (360°) | Y           | Y                     |
-| AT128                   | 200m  | (25.4°), (120°)        | Y           | Y                      |
-| XT32                    | 120m  | (-16°/+15°), (360°)    | Y           | Y                      |
-| XT16                    | 120m  | (-15°/+15°), (360°)    | Y           | -                      |
-| FT120                   | 100m  | (75°), (100°)          | -           | -                      |
-| ET25                    | 250m  | (25°), (120°)          | -           | -                      |
+| Supported Products List | Range | FOV (V), (H)            | ROS 2 Driver | Autoware Tested (Y/N) |
+| ----------------------- | ----- | ----------------------- | ------------ | --------------------- |
+| Pandar 128              | 200m  | (+15°)/(-25°), (360°)   | Y            | -                     |
+| Pandar 64               | 200m  | (+15°)/(-25°), (360°)   | Y            | Y                     |
+| Pandar 40P              | 200m  | (+15°)/(-25°), (360°)   | Y            | Y                     |
+| QT 128                  | 50m   | (-52.6°/+52.6°), (360°) | Y            | Y                     |
+| QT 64                   | 20m   | (-52.1°/+52.1°), (360°) | Y            | Y                     |
+| AT128                   | 200m  | (25.4°), (120°)         | Y            | Y                     |
+| XT32                    | 120m  | (-16°/+15°), (360°)     | Y            | Y                     |
+| XT16                    | 120m  | (-15°/+15°), (360°)     | Y            | -                     |
+| FT120                   | 100m  | (75°), (100°)           | -            | -                     |
+| ET25                    | 250m  | (25°), (120°)           | -            | -                     |
 
 Link to ROS 2 drivers:  
 [https://github.com/tier4/nebula](https://github.com/tier4/nebula)  
@@ -85,16 +85,16 @@ Link to company website:
 
 Livox Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | Range | FOV (V), (H)      | ROS 2 Driver | Autoware Tested (Y/N) |
-| ----------------------- | ----- | ----------------- | ------------ | --------------------- |
-| Horizon                 | 260m  | (81.7°), (25.1°)  | Y            | Y                     |
-| Mid-40                  | 260m  | (38.4°), Circular | Y            | -                     |
-| Mid-70                  | 90m   | (70.4°), (77.2°)  | Y            | -                     |
-| Mid-100                 | 260m  | (38.4°), (98.4°)  | Y            | -                     |
-| Mid-360                 | 70m   | (+52°/-7°), (360°)| Y            | -                     |
-| Avia                    | 190m  | (70.4°), Circular | Y            | -                     |
-| HAP                     | 150m  | (25°), (120°)     | -            | -                     |
-| Tele-15                 | 320m  | (16.2°), (14.5°)  | -            | -                     |
+| Supported Products List | Range | FOV (V), (H)       | ROS 2 Driver | Autoware Tested (Y/N) |
+| ----------------------- | ----- | ------------------ | ------------ | --------------------- |
+| Horizon                 | 260m  | (81.7°), (25.1°)   | Y            | Y                     |
+| Mid-40                  | 260m  | (38.4°), Circular  | Y            | -                     |
+| Mid-70                  | 90m   | (70.4°), (77.2°)   | Y            | -                     |
+| Mid-100                 | 260m  | (38.4°), (98.4°)   | Y            | -                     |
+| Mid-360                 | 70m   | (+52°/-7°), (360°) | Y            | -                     |
+| Avia                    | 190m  | (70.4°), Circular  | Y            | -                     |
+| HAP                     | 150m  | (25°), (120°)      | -            | -                     |
+| Tele-15                 | 320m  | (16.2°), (14.5°)   | -            | -                     |
 
 Link to ROS 2 driver:  
 [https://github.com/Livox-SDK/livox_ros2_driver](https://github.com/Livox-SDK/livox_ros2_driver)

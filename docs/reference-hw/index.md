@@ -34,8 +34,8 @@ The documents consists of the sections listed below:
 
   - FLIR Machine Vision Cameras
   - Lucid Vision Cameras
-  - Allied Vision Cameras 
-  - TierIV Cameras 
+  - Allied Vision Cameras
+  - TierIV Cameras
   - Neousys Technology Cameras
 
 - Thermal CAMERAs

@@ -8,7 +8,7 @@ FLIR Machine Vision cameras which has ROS 2 driver and tested by one or more com
 | ----------------------- | ------------ | ---------- | --------- | ------------- | ------ | ------------ | --------------------- |
 | Blackfly S              | 2.0 <br> 5.0 | 22 <br> 95 | USB-GigE  | 1” - ⅔”       | C & CS | Y            | -                     |
 | Grasshopper3            | 2.3 <br> 5.0 | 26 <br> 90 | USB-GigE  | 1” - ⅔”       | C & CS | Y            | -                     |
-| Flea3                   |     1.3      |     60     |    USB    |    1/1.8”     |    C   | Y            | -                     |
+| Flea3                   | 1.3          | 60         | USB       | 1/1.8”        | C      | Y            | -                     |
 
 Link to ROS 2 driver:  
 [https://github.com/berndpfrommer/flir_spinnaker_ros2](https://github.com/berndpfrommer/flir_spinnaker_ros2)
@@ -27,7 +27,7 @@ Lucid Vision cameras which has ROS 2 driver and tested by one or more community 
 | TRITON 050S             | 5.0 | 22   | GigE      | 2/3”          | C Mount | Y            | -                     |
 
 Link to ROS 2 driver:  
-[https://gitlab.com/leo-drive/Drivers/arena_camera](https://gitlab.com/leo-drive/Drivers/arena_camera)  
+[https://gitlab.com/leo-drive/Drivers/arena_camera](https://gitlab.com/leo-drive/Drivers/arena_camera)
 
 Link to company website:  
 [https://thinklucid.com/triton-gige-machine-vision/](https://thinklucid.com/triton-gige-machine-vision/)
@@ -50,10 +50,10 @@ Link to company website:
 
 TierIV cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | MP  | FPS  | Interface | Sensor Format | Lens    | ROS 2 Driver | Autoware Tested (Y/N) |
-| ----------------------- | --- | ---- | --------- | ------------- | ------- | ------------ | --------------------- |
-| C1                      | 2.5 | 30   | GMSL2     | 1/2.57”       |  Glued  | Y            | Y                     |
-| C2                      | 5.4 | 30   | GMSL2     |       -       |  Glued  |      -       |          -            |
+| Supported Products List | MP  | FPS | Interface | Sensor Format | Lens  | ROS 2 Driver | Autoware Tested (Y/N) |
+| ----------------------- | --- | --- | --------- | ------------- | ----- | ------------ | --------------------- |
+| C1                      | 2.5 | 30  | GMSL2     | 1/2.57”       | Glued | Y            | Y                     |
+| C2                      | 5.4 | 30  | GMSL2     | -             | Glued | -            | -                     |
 
 Link to driver:  
 [https://github.com/tier4/tier4_automotive_hdr_camera](https://github.com/tier4/tier4_automotive_hdr_camera)
@@ -61,11 +61,10 @@ Link to driver:
 Link to company website:  
 [https://sensor.tier4.jp/automotive-camera](https://sensor.tier4.jp/automotive-camera)
 
-## **Neousys Technology Camera** 
+## **Neousys Technology Camera**
 
-Neousys Technology cameras which has ROS 2 driver and tested by one or more community members are listed below: 
+Neousys Technology cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | MP  | FPS  | Interface | Sensor Format | Lens    | ROS 2 Driver | Autoware Tested (Y/N) |
-| ----------------------- | --- | ---- | --------- | ------------- | ------- | ------------ | --------------------- |
-| AC-IMX390               | 2.0 | 30   | GMSL2 <br/> (over [PCIe-GL26 Grabber Card](https://www.neousys-tech.com/en/product/product-lines/in-vehicle-computing/vehicle-expansion-card/pcie-gl26-gmsl-frame-grabber-card))|       1/2.7”         |  5-axis active adjustment<br/> with adhesive dispense  |      Y       |          Y            |
-
+| Supported Products List | MP  | FPS | Interface                                                                                                                                                                        | Sensor Format | Lens                                                 | ROS 2 Driver | Autoware Tested (Y/N) |
+| ----------------------- | --- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------- | ------------ | --------------------- |
+| AC-IMX390               | 2.0 | 30  | GMSL2 <br/> (over [PCIe-GL26 Grabber Card](https://www.neousys-tech.com/en/product/product-lines/in-vehicle-computing/vehicle-expansion-card/pcie-gl26-gmsl-frame-grabber-card)) | 1/2.7”        | 5-axis active adjustment<br/> with adhesive dispense | Y            | Y                     |

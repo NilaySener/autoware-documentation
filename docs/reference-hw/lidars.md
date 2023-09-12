@@ -24,7 +24,7 @@ Link to company website:
 
 RoboSense Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
-| Supported Products List | Range | FOV (V), (H)                         | ROS2 Driver | Autoware Tested (Y/N) |
+| Supported Products List | Range | FOV (V), (H)                         | ROS 2 Driver | Autoware Tested (Y/N) |
 | ----------------------- | ----- | ------------------------------------ | ----------- | --------------------- |
 | M1                      | 200m  | 25°/120°                             | -           | -                     |
 | E1                      | 30m   | 90°/120°                             | -           | -                     |

@@ -32,9 +32,8 @@ Neousys solutions which is used for autonomous driving and tested by one or more
 
 | Supported Products List | CPU                        | GPU                               | RAM, Interfaces                                                                    | Environmental                                                | Autoware Tested (Y/N) |
 | ----------------------- | -------------------------- | --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------- |
-| 8208-GC                 | Intel® Xeon® E-2278GE      | Dual RTX 2080ti or RTX 3070       | 128 GB RAM,CAN, USB, Ethernet, Serial, Hot-Swap SSD                                | 8-35 VoltVibration:MIL-STD810G 5-500 Hz, 3 axes              | -                     |
-| 8805-GC                 | AMD® EPYC™ 7003            | NVIDIA® RTX A6000/ A4500          | 512GB CAN, USB, Ethernet, Serial, Easy-Swap SSD                                    | 8-48 Volt, Vibration:MIL-STD810G, Method 514.6, Category 4   | -                     |
-| 10208-GC                | Intel® 13th/12th-Gen Core™ | Dual 350W NVIDIA® RTX GPU         | 64GB CAN, USB, Ethernet, Serial, M2 NVMe SSD                                       | 8~48 Volt, Vibration: MIL-STD-810H, Method 514.8, Category 4 | -                     |
+| 8805-GC                 | AMD® EPYC™ 7003            | NVIDIA® RTX A6000/ A4500          | 512GB CAN, USB, Ethernet, Serial, Easy-Swap SSD                                    | 8-48 Volt, Vibration:MIL-STD810G, Method 514.6, Category 4   | Y                     |
+| 10208-GC                | Intel® 13th/12th-Gen Core™ | Dual 350W NVIDIA® RTX GPU         | 64GB CAN, USB, Ethernet, Serial, M2 NVMe SSD                                       | 8~48 Volt, Vibration: MIL-STD-810H, Method 514.8, Category 4 | Y                    |
 | 9160-GC                 | Intel® 13th/12th-Gen Core™ | NVIDIA® RTX series up to 130W TDP | 64GB CAN, USB, Ethernet, PoE, Serial, two 2.5" SATA HDD/SSD with RAID, M2 NVMe SSD | 8~48, Vibration: Volt,MIL-STD-810G, Method 514.6, Category 4 | -                     |
 
 Link to company website is [here.](https://www.neousys-tech.com/en/product/product-lines/edge-ai-gpu-computing)

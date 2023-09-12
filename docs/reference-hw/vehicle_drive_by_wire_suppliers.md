@@ -1,16 +1,5 @@
 # Vehicle Drive By Wire Suppliers
 
-## **New Eagle DBW Solutions**
-
-New Eagle DBW Controllers which is used for autonomous driving and tested by one or more community members are listed below:
-
-| Supported Vehicles                                                                                      | Power                                             | Remote Control      | ROS 2 Support | Autoware Tested (Y/N) |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------- | ------------- | --------------------- |
-| Jeep Cherokee<br>Chrysler Pacifica<br>Toyota Prius<br>Chevy Bolt<br>Ford Transit<br>RAM 1500<br>Custom  | 500W Sine Inverter<br>2000 Watts<br>8 Channel PDS | Optional, Available | Y             | Y                     |
-
-Link to company website:  
-[https://neweagle.net/autonomous-machines/](https://neweagle.net/autonomous-machines/)
-
 ## **Dataspeed DBW Solutions**
 
 Dataspeed DBW Controllers which is used for autonomous driving and tested by one or more community members are listed below:

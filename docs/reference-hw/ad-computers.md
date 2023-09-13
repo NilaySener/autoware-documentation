@@ -2,6 +2,8 @@
 
 ## **ADLINK In-Vehicle Computers**
 
+![ad_comp-adlink.png](images/ad_comp-adlink.png)
+
 ADLINK solutions which is used for autonomous driving and tested by one or more community members are listed below:
 
   <!-- cspell: ignore Altra BLUEBOX  -->
@@ -18,6 +20,8 @@ Link to company website is [here.](https://www.adlinktech.com/en/Connected-Auton
 
 ## **NXP In-Vehicle Computers**
 
+![ad_comp-nxp.png](images/ad_comp-nxp.png)  
+
 NXP solutions which is used for autonomous driving and tested by one or more community members are listed below:
 
 | Supported Products List | CPU                   | GPU                        | RAM, Interfaces                                 | Environmental | Autoware Tested (Y/N) |
@@ -27,6 +31,8 @@ NXP solutions which is used for autonomous driving and tested by one or more com
 Link to company website is [here.](https://www.nxp.com/design/designs/bluebox-3-0-automotive-high-performance-compute-ahpc-development-platform:BlueBox)
 
 ## **Neousys In-Vehicle Computers**
+
+![ad_comp-neousys.png](images/ad_comp-neousys.png)  
 
 Neousys solutions which is used for autonomous driving and tested by one or more community members are listed below:
 
@@ -39,6 +45,8 @@ Neousys solutions which is used for autonomous driving and tested by one or more
 Link to company website is [here.](https://www.neousys-tech.com/en/product/product-lines/edge-ai-gpu-computing)
 
 ## **Crystal Rugged In-Vehicle Computers**
+
+![ad_comp-crystal_rugged.png](images/ad_comp-crystal_rugged.png)  
 
 Crystal Rugged solutions which is used for autonomous driving and tested by one or more community members are listed below:
 

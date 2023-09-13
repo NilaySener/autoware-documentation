@@ -2,6 +2,8 @@
 
 ## **Dataspeed DBW Solutions**
 
+![images/dbw-dataspeed.png](images/dbw-dataspeed.png)  
+
 Dataspeed DBW Controllers which is used for autonomous driving and tested by one or more community members are listed below:
 
 | Supported Vehicles                                                                                                                                                  | Power                            | Remote Control      | ROS 2 Support | Autoware Tested (Y/N) |
@@ -12,6 +14,8 @@ Link to company website:
 [https://www.dataspeedinc.com/](https://www.dataspeedinc.com/)
 
 ## **AStuff Pacmod DBW Solutions**
+
+![images/dbw-astuff.png](images/dbw-astuff.png)  
 
 Autonomous Stuff Pacmod DBW Controllers which is used for autonomous driving and tested by one or more community members are listed below:
 
@@ -25,6 +29,8 @@ Link to company website:
   <!-- cspell: ignore Paravan -->
 
 ## **Schaeffler-Paravan Space Drive DBW Solutions**
+
+![images/dbw-astuff.png](images/dbw-schaffler.png)  
 
 Schaeffler-Paravan Space Drive DBW Controllers which is used for autonomous driving and tested by one or more community members are listed below:
 

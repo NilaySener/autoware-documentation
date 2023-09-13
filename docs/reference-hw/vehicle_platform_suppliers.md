@@ -2,6 +2,8 @@
 
 ## **PIX MOVING Autonomous Vehicle Solutions**
 
+![images/platform-pix_moving.png](images/platform-pix_moving.png)  
+
 PIX Moving AV solutions which is used for autonomous development and tested by one or more community members are listed below:
 
 | Vehicle Types                      | Sensors Integrated | Autoware Installed | ROS 2 Support | Autoware Tested (Y/N) |
@@ -16,6 +18,8 @@ Different sizes of platforms
 ![platforms.png](images/platforms.png)
 
 ## **Autonomoustuff AV Solutions**
+
+![images/platform-autonomoustuff.png](images/platform-autonomoustuff.png)  
 
 Autonomoustuff platform solutions which is used for autonomous development and tested by one or more community members are listed below:
 

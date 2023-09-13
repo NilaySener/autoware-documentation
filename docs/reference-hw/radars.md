@@ -1,8 +1,8 @@
 # RADARs
 
-## **Smartmicro Automotive Radars**  
+## **Smartmicro Automotive Radars**
 
-![images/radar-smartmicro.png](images/radar-smartmicro.png)  
+![images/radar-smartmicro.png](images/radar-smartmicro.png)
 
 Smartmicro Radars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -20,7 +20,7 @@ Link to company website:
 
 ## **Aptiv Automotive Radars**
 
-![images/radar-aptiv.png](images/radar-aptiv.png)  
+![images/radar-aptiv.png](images/radar-aptiv.png)
 
 Aptiv Radars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -34,7 +34,7 @@ Link to company website:
 
 ## **Continental Engineering Radars**
 
-![images/radar-continental.png](images/radar-continental.png)  
+![images/radar-continental.png](images/radar-continental.png)
 
 Continental Engineering Radars which has ROS 2 driver and tested by one or more community members are listed below:
 

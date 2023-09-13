@@ -2,7 +2,7 @@
 
 ## **NovAtel GNSS/INS Sensors**
 
-![images/gnss-novatel.png](images/gnss-novatel.png)  
+![images/gnss-novatel.png](images/gnss-novatel.png)
 
 NovAtel GNSS/INS sensors which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -19,7 +19,7 @@ Link to company website:
 
 ## **XSens GNSS/INS & IMU Sensors**
 
-![images/gnss-novatel.png](images/gnss-xsens.png)  
+![images/gnss-novatel.png](images/gnss-xsens.png)
 
 XSens GNSS/INS sensors which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -36,7 +36,7 @@ Link to company website:
 
 ## **SBG GNSS/INS & IMU Sensors**
 
-![images/gnss-sbg.png](images/gnss-sbg.png)  
+![images/gnss-sbg.png](images/gnss-sbg.png)
 
 SBG GNSS/INS sensors which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -55,7 +55,7 @@ Link to company website:
 
   <!-- cspell: ignore  POSLV  POLYNAV -->
 
-![images/gnss-applanix.png](images/gnss-applanix.png)  
+![images/gnss-applanix.png](images/gnss-applanix.png)
 
 SBG GNSS/INS sensors which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -72,7 +72,7 @@ Link to company website:
 
 ## **PolyExplore GNSS/INS Sensors**
 
-![images/gnss-polyexplore.png](images/gnss-polyexplore.png)  
+![images/gnss-polyexplore.png](images/gnss-polyexplore.png)
 
 PolyExplore GNSS/INS sensors which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -89,7 +89,7 @@ Link to company website:
 
 ## **Fix Position GNSS/INS Sensors**
 
-![images/gnss-fixposition.png](images/gnss-fixposition.png)  
+![images/gnss-fixposition.png](images/gnss-fixposition.png)
 
 | Supported Products List | INS/IMU Rate | Roll, Pitch, Yaw Acc. | GNSS            | ROS 2 Driver  | Autoware Tested (Y/N) |
 | ----------------------- | ------------ | --------------------- | --------------- | ------------- | --------------------- |

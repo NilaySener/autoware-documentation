@@ -2,7 +2,7 @@
 
 ## **FLIR Thermal Automotive Dev. Kit**
 
-![images/thermal_camera-flir.png](images/thermal_camera-flir.png)  
+![images/thermal_camera-flir.png](images/thermal_camera-flir.png)
 
 FLIR ADK Thermal Vision cameras which has ROS 2 driver and tested by one or more community members are listed below:
 

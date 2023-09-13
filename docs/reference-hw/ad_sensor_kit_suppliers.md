@@ -2,7 +2,7 @@
 
 ## **LEO Drive AD Sensor Kit**
 
-![images/ad_kit-leodrive.png](images/ad_kit-leodrive.png)  
+![images/ad_kit-leodrive.png](images/ad_kit-leodrive.png)
 
 LEO Drive Autonomy Essentials Kit contents are listed below:
 
@@ -15,7 +15,7 @@ Link to company website:
 
 ## **Tier IV AD Kit**
 
-![images/ad_kit-tieriv.png](images/ad_kit-tieriv.png)  
+![images/ad_kit-tieriv.png](images/ad_kit-tieriv.png)
 
 Tier IV sensor fusion system contents are listed below:
 
@@ -28,7 +28,7 @@ Link to company website:
 
 ## **RoboSense AD Sensor Kit**
 
-![images/ad_kit-robosense.png](images/ad_kit-robosense.png)  
+![images/ad_kit-robosense.png](images/ad_kit-robosense.png)
 
 RoboSense L4 sensor fusion solution system contents are listed below:
 

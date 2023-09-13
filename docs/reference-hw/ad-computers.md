@@ -20,7 +20,7 @@ Link to company website is [here.](https://www.adlinktech.com/en/Connected-Auton
 
 ## **NXP In-Vehicle Computers**
 
-![ad_comp-nxp.png](images/ad_comp-nxp.png)  
+![ad_comp-nxp.png](images/ad_comp-nxp.png)
 
 NXP solutions which is used for autonomous driving and tested by one or more community members are listed below:
 
@@ -32,7 +32,7 @@ Link to company website is [here.](https://www.nxp.com/design/designs/bluebox-3-
 
 ## **Neousys In-Vehicle Computers**
 
-![ad_comp-neousys.png](images/ad_comp-neousys.png)  
+![ad_comp-neousys.png](images/ad_comp-neousys.png)
 
 Neousys solutions which is used for autonomous driving and tested by one or more community members are listed below:
 
@@ -46,7 +46,7 @@ Link to company website is [here.](https://www.neousys-tech.com/en/product/produ
 
 ## **Crystal Rugged In-Vehicle Computers**
 
-![ad_comp-crystal_rugged.png](images/ad_comp-crystal_rugged.png)  
+![ad_comp-crystal_rugged.png](images/ad_comp-crystal_rugged.png)
 
 Crystal Rugged solutions which is used for autonomous driving and tested by one or more community members are listed below:
 

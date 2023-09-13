@@ -2,7 +2,7 @@
 
 ## **Velodyne 3D LIDAR Sensors**
 
-![lidar-velodyne.png](images/lidar-velodyne.png)  
+![lidar-velodyne.png](images/lidar-velodyne.png)
 
 Velodyne Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -24,7 +24,7 @@ Link to company website:
 
 ## **RoboSense 3D LIDAR Sensors**
 
-![images/lidar-robosense.png](images/lidar-robosense.png)  
+![images/lidar-robosense.png](images/lidar-robosense.png)
 
 RoboSense Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -45,7 +45,7 @@ Link to company website:
 
 ## **HESAI 3D LIDAR Sensors**
 
-![images/lidar-hesai.png](images/lidar-hesai.png)  
+![images/lidar-hesai.png](images/lidar-hesai.png)
 
 Hesai Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -71,7 +71,7 @@ Link to company website:
 
 ## **Leishen 3D LIDAR Sensors**
 
-![images/lidar-leishen.png](images/lidar-leishen.png)  
+![images/lidar-leishen.png](images/lidar-leishen.png)
 
 Leishen Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -91,7 +91,7 @@ Link to company website:
 
 ## **Livox 3D LIDAR Sensors**
 
-![images/lidar-livox.png](images/lidar-livox.png)  
+![images/lidar-livox.png](images/lidar-livox.png)
 
 Livox Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -114,7 +114,7 @@ Link to company website:
 
 ## **Ouster 3D LIDAR Sensors**
 
-![images/lidar-ouster.png](images/lidar-ouster.png)  
+![images/lidar-ouster.png](images/lidar-ouster.png)
 
 Ouster Lidars which has ROS 2 driver and tested by one or more community members are listed below:
 

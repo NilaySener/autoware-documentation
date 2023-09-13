@@ -2,7 +2,7 @@
 
 ## **FLIR Machine Vision Cameras**
 
-![images/camera-flir.png](images/camera-flir.png)  
+![images/camera-flir.png](images/camera-flir.png)
 
 FLIR Machine Vision cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -20,7 +20,7 @@ Link to company website:
 
 ## **Lucid Vision Cameras**
 
-![images/camera-lucid_vision.png](images/camera-lucid_vision.png)  
+![images/camera-lucid_vision.png](images/camera-lucid_vision.png)
 
 Lucid Vision cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -38,7 +38,7 @@ Link to company website:
 
 ## **Allied Vision Cameras**
 
-![images/camera-allied_vision.png](images/camera-allied_vision.png)  
+![images/camera-allied_vision.png](images/camera-allied_vision.png)
 
 Allied Vision cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -54,7 +54,7 @@ Link to company website:
 
 ## **Tier IV Cameras**
 
-![images/camera-tieriv.png](images/camera-tieriv.png)  
+![images/camera-tieriv.png](images/camera-tieriv.png)
 
 TierIV cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
@@ -71,7 +71,7 @@ Link to company website:
 
 ## **Neousys Technology Camera**
 
-![images/camera-neousys.png](images/camera-neousys.png)  
+![images/camera-neousys.png](images/camera-neousys.png)
 
 Neousys Technology cameras which has ROS 2 driver and tested by one or more community members are listed below:
 

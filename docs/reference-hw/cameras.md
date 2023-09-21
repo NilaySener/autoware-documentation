@@ -52,11 +52,11 @@ Link to ROS 2 driver:
 Link to company website:  
 [https://www.alliedvision.com/en/products/camera-series/mako-g](https://www.alliedvision.com/en/products/camera-series/mako-g)
 
-## **Tier IV Cameras**
+## **TIER IV Cameras**
 
 ![images/camera-tieriv.png](images/camera-tieriv.png)
 
-TierIV cameras which has ROS 2 driver and tested by one or more community members are listed below:
+TIER IV cameras which has ROS 2 driver and tested by one or more community members are listed below:
 
 | Supported Products List | MP  | FPS | Interface | Sensor Format | Lens                                                 | ROS 2 Driver | Autoware Tested (Y/N) |
 | ----------------------- | --- | --- | --------- | ------------- | ---------------------------------------------------- | ------------ | --------------------- |

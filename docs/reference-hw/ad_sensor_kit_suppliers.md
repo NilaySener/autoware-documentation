@@ -13,15 +13,15 @@ LEO Drive Autonomy Essentials Kit contents are listed below:
 Link to company website:  
 [https://leodrive.ai/](https://leodrive.ai/)
 
-## **Tier IV AD Kit**
+## **TIER IV AD Kit**
 
 ![images/ad_kit-tieriv.png](images/ad_kit-tieriv.png)
 
 Tier IV sensor fusion system contents are listed below:
 
-| Supported Products List | Camera         | Lidar                            | ECU                        | ROS2 Support | Autoware Tested (Y/N) |
+| Supported Products List | Camera         | Lidar                            | ECU                        | ROS 2 Support | Autoware Tested (Y/N) |
 | ----------------------- | -------------- | -------------------------------- | -------------------------- | ------------ | --------------------- |
-| Tier IV ADK             | TIER IV C1, C2 | HESAI (AT-128,XT-32)<br>Velodyne | ADLINK (RQX-58G, AVA-3510) | Y            | Y                     |
+| TIER IV ADK             | TIER IV C1, C2 | HESAI (AT-128,XT-32)<br>Velodyne | ADLINK (RQX-58G, AVA-3510) | Y            | Y                     |
 
 Link to company website:  
 [https://sensor.tier4.jp/sensor-fusion-system](https://sensor.tier4.jp/sensor-fusion-system)
